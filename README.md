@@ -8,7 +8,7 @@ Code assumes packages **readr** and **purrr** are installed.
 install.packages(c("readr", "purrr"))
 ```
 
-## Day 1
+## Day 2
 Picked R as a language. Code in `puzzle2.R`, input data in `puzzle_input_2.txt`.
 Code assumes packages **readr** and **dplyr** are installed.
 
