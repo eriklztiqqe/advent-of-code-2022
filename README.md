@@ -16,3 +16,9 @@ Code assumes packages **readr** and **dplyr** are installed.
 install.packages(c("readr", "dplyr"))
 ```
 
+## Day 3
+Picked F# as a language. Should work fine with F# v6 or v7, possibly with v5 as well.
+
+## Day 4
+Picked Nushell as a language.
+
