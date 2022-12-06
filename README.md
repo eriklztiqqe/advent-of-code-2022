@@ -22,3 +22,6 @@ Picked F# as a language. Should work fine with F# v6 or v7, possibly with v5 as 
 ## Day 4
 Picked Nushell as a language.
 
+## Day 5
+Picked Nushell as a language. This was mainly to get an opportiunity to learn more about using Nushell 
+in practice. 
