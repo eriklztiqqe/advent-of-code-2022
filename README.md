@@ -25,3 +25,6 @@ Picked Nushell as a language.
 ## Day 5
 Picked Nushell as a language. This was mainly to get an opportiunity to learn more about using Nushell 
 in practice. 
+
+## Day 6
+Picked F# as a language.
